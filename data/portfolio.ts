@@ -20,5 +20,5 @@ export const projects = [
   { number:"03", title:"Lakehouse Observability", subtitle:"Trust every dataset", description:"Framework data quality yang memantau freshness, volume, schema drift, dan anomali distribusi.", impact:"Incident turun 62%", stack:["Python","Spark","Great Expectations","Grafana"], flow:["Lake","Quality","Metrics","Alerts"] },
 ];
 export const certifications = [
-  { short:"AWS", title:"AWS Certified Data Engineer", issuer:"Amazon Web Services", year:"2026" }, { short:"GCP", title:"Professional Data Engineer", issuer:"Google Cloud", year:"2025" }, { short:"DBX", title:"Databricks Data Engineer", issuer:"Databricks", year:"2025" }, { short:"DBT", title:"dbt Analytics Engineering", issuer:"dbt Labs", year:"2024" },
+  { short:"AWS", title:"AWSSS Certified Data Engineer", issuer:"Amazon Web Services", year:"2026" }, { short:"GCP", title:"Professional Data Engineer", issuer:"Google Cloud", year:"2025" }, { short:"DBX", title:"Databricks Data Engineer", issuer:"Databricks", year:"2025" }, { short:"DBT", title:"dbt Analytics Engineering", issuer:"dbt Labs", year:"2024" },
 ];
